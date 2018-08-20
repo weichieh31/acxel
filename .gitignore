@@ -1,0 +1,4 @@
+*.psd
+.sass-cache
+*.log
+js
